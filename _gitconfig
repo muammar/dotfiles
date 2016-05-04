@@ -1,6 +1,6 @@
 [core]
         editor = vim -f
-        excludesfile = /Users/gerardo/.gitignore_global
+        excludesfile = /Users/muammar/.gitignore_global
         quotepath = false
         autocrlf = input
 [apply]
