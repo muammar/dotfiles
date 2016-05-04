@@ -40,4 +40,4 @@ Suggestions and improvements [welcome](https://github.com/muammar/dotfiles/issue
 
 ## Thanks to…
 
-* [Gerardo Curiel] [dotfiles](https://github.com/gerardo/dotfiles) repository.
+* Gerardo Curiel [dotfiles](https://github.com/gerardo/dotfiles) repository.
