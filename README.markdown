@@ -1,13 +1,14 @@
-# Gerardo Curiel Dotfiles
+# Dotfiles
 
-These are my dotfiles, a set of config files to set up a *NIX system
-with my personal preferences.
+These are my dotfiles. They are based on [Gerardo's dotfiles
+](https://github.com/gerardo/dotfiles), with some modifications to be useful
+also for scientists.
 
 ## Installation
 
 ```bash
 
-$ git clone git://github.com/gerardo/dotfiles ~/.dotfiles
+$ git clone git://github.com/muammar/dotfiles ~/.dotfiles
 $ cd ~/.dotfiles
 $ ./install.sh
 ```
@@ -33,12 +34,10 @@ When setting up a new Mac, you may want to set some sensible OS X defaults (it s
 $ ./.osx
 ```
 
-
 ## Feedback
 
-Suggestions and improvements [welcome](https://github.com/gerardo/dotfiles/issues)!
+Suggestions and improvements [welcome](https://github.com/muammar/dotfiles/issues)!
 
 ## Thanks to…
 
-* [Mathias Bynens](http://mathiasbynens.be/) for sharing his osx settings from his
-[dotfiles](https://github.com/mathiasbynens/dotfiles) repository.
+* [Gerardo Curiel] [dotfiles](https://github.com/gerardo/dotfiles) repository.
