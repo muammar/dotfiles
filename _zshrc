@@ -23,7 +23,6 @@ plugins=(
     git
     git-extras
     python
-    virtualenvwrapper
     pip
     fasd
     docker
@@ -49,12 +48,6 @@ source $ZSH/oh-my-zsh.sh
 
 # Fix for .. completion
 zstyle ':completion:*' special-dirs true
-
-# your project folder that we can `c [tab]` to
-export PROJECTS=$HOME/Code
-
-#Python
-export WORKON_HOME=~/Envs
 
 alias tmux="TERM=screen-256color-bce tmux"
 #alias vim="/Applications/MacVim.app/Contents/MacOS/Vim"
